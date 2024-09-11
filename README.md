@@ -1,0 +1,2 @@
+Usei o Google Sheets como um banco de dados na nuvem para gerenciar informações de imóveis (localização, preço, status de venda/aluguel) e dados de clientes (nome, preferências, histórico de interações).
+Criei um script em Python para atualizar automaticamente as informações dos imóveis. Por exemplo, ao marcar um imóvel como vendido ou alugado, o sistema pode enviar um e-mail de confirmação para o cliente e remover o imóvel da lista de disponíveis.
